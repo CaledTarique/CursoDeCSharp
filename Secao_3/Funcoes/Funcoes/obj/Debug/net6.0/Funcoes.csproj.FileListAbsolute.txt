@@ -1,0 +1,15 @@
+C:\Curso_C_Sharp\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.exe
+C:\Curso_C_Sharp\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.deps.json
+C:\Curso_C_Sharp\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.runtimeconfig.json
+C:\Curso_C_Sharp\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.dll
+C:\Curso_C_Sharp\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.pdb
+C:\Curso_C_Sharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.csproj.AssemblyReference.cache
+C:\Curso_C_Sharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_C_Sharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.AssemblyInfoInputs.cache
+C:\Curso_C_Sharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.AssemblyInfo.cs
+C:\Curso_C_Sharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Curso_C_Sharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.dll
+C:\Curso_C_Sharp\Funcoes\Funcoes\obj\Debug\net6.0\refint\Funcoes.dll
+C:\Curso_C_Sharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.pdb
+C:\Curso_C_Sharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.genruntimeconfig.cache
+C:\Curso_C_Sharp\Funcoes\Funcoes\obj\Debug\net6.0\ref\Funcoes.dll
