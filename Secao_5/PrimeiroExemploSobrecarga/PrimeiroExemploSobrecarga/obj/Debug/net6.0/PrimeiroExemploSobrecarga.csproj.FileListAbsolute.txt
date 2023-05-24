@@ -1,0 +1,15 @@
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\bin\Debug\net6.0\PrimeiroExemploSobrecarga.exe
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\bin\Debug\net6.0\PrimeiroExemploSobrecarga.deps.json
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\bin\Debug\net6.0\PrimeiroExemploSobrecarga.runtimeconfig.json
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\bin\Debug\net6.0\PrimeiroExemploSobrecarga.dll
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\bin\Debug\net6.0\PrimeiroExemploSobrecarga.pdb
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\obj\Debug\net6.0\PrimeiroExemploSobrecarga.csproj.AssemblyReference.cache
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\obj\Debug\net6.0\PrimeiroExemploSobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\obj\Debug\net6.0\PrimeiroExemploSobrecarga.AssemblyInfoInputs.cache
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\obj\Debug\net6.0\PrimeiroExemploSobrecarga.AssemblyInfo.cs
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\obj\Debug\net6.0\PrimeiroExemploSobrecarga.csproj.CoreCompileInputs.cache
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\obj\Debug\net6.0\PrimeiroExemploSobrecarga.dll
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\obj\Debug\net6.0\refint\PrimeiroExemploSobrecarga.dll
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\obj\Debug\net6.0\PrimeiroExemploSobrecarga.pdb
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\obj\Debug\net6.0\PrimeiroExemploSobrecarga.genruntimeconfig.cache
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploSobrecarga\PrimeiroExemploSobrecarga\obj\Debug\net6.0\ref\PrimeiroExemploSobrecarga.dll

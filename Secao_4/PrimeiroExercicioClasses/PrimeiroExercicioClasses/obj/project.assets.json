@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Curso_C_Sharp\\OrientacaoObjetos_1\\PrimeiroExercicioClasses\\PrimeiroExercicioClasses\\PrimeiroExercicioClasses.csproj",
+      "projectUniqueName": "C:\\Curso_C_Sharp\\Secao_4\\PrimeiroExercicioClasses\\PrimeiroExercicioClasses\\PrimeiroExercicioClasses.csproj",
       "projectName": "PrimeiroExercicioClasses",
-      "projectPath": "C:\\Curso_C_Sharp\\OrientacaoObjetos_1\\PrimeiroExercicioClasses\\PrimeiroExercicioClasses\\PrimeiroExercicioClasses.csproj",
+      "projectPath": "C:\\Curso_C_Sharp\\Secao_4\\PrimeiroExercicioClasses\\PrimeiroExercicioClasses\\PrimeiroExercicioClasses.csproj",
       "packagesPath": "C:\\Users\\caled\\.nuget\\packages\\",
-      "outputPath": "C:\\Curso_C_Sharp\\OrientacaoObjetos_1\\PrimeiroExercicioClasses\\PrimeiroExercicioClasses\\obj\\",
+      "outputPath": "C:\\Curso_C_Sharp\\Secao_4\\PrimeiroExercicioClasses\\PrimeiroExercicioClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\bin\Debug\net6.0\PrimeiroExemploConstrutores.exe
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\bin\Debug\net6.0\PrimeiroExemploConstrutores.deps.json
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\bin\Debug\net6.0\PrimeiroExemploConstrutores.runtimeconfig.json
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\bin\Debug\net6.0\PrimeiroExemploConstrutores.dll
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\bin\Debug\net6.0\PrimeiroExemploConstrutores.pdb
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\obj\Debug\net6.0\PrimeiroExemploConstrutores.csproj.AssemblyReference.cache
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\obj\Debug\net6.0\PrimeiroExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\obj\Debug\net6.0\PrimeiroExemploConstrutores.AssemblyInfoInputs.cache
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\obj\Debug\net6.0\PrimeiroExemploConstrutores.AssemblyInfo.cs
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\obj\Debug\net6.0\PrimeiroExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\obj\Debug\net6.0\PrimeiroExemploConstrutores.dll
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\obj\Debug\net6.0\refint\PrimeiroExemploConstrutores.dll
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\obj\Debug\net6.0\PrimeiroExemploConstrutores.pdb
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\obj\Debug\net6.0\PrimeiroExemploConstrutores.genruntimeconfig.cache
+C:\Curso_C_Sharp\Secao_5\PrimeiroExemploConstrutores\PrimeiroExemploConstrutores\obj\Debug\net6.0\ref\PrimeiroExemploConstrutores.dll
