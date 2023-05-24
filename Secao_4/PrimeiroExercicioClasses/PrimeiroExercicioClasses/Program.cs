@@ -13,7 +13,7 @@
             Console.WriteLine("Informe sua idade:");
             x.Idade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Seu nome é {x.Nome} e você têm {x.Idade} anos de idade");
+            Console.WriteLine($"Seu nome é: {x.Nome} e você têm {x.Idade} anos de idade");
         }
     }
 }
