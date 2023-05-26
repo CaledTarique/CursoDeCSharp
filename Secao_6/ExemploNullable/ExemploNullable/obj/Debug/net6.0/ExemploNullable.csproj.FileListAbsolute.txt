@@ -1,0 +1,15 @@
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\bin\Debug\net6.0\ExemploNullable.exe
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\bin\Debug\net6.0\ExemploNullable.deps.json
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\bin\Debug\net6.0\ExemploNullable.runtimeconfig.json
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\bin\Debug\net6.0\ExemploNullable.dll
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\bin\Debug\net6.0\ExemploNullable.pdb
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\obj\Debug\net6.0\ExemploNullable.csproj.AssemblyReference.cache
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\obj\Debug\net6.0\ExemploNullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\obj\Debug\net6.0\ExemploNullable.AssemblyInfoInputs.cache
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\obj\Debug\net6.0\ExemploNullable.AssemblyInfo.cs
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\obj\Debug\net6.0\ExemploNullable.csproj.CoreCompileInputs.cache
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\obj\Debug\net6.0\ExemploNullable.dll
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\obj\Debug\net6.0\refint\ExemploNullable.dll
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\obj\Debug\net6.0\ExemploNullable.pdb
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\obj\Debug\net6.0\ExemploNullable.genruntimeconfig.cache
+C:\Curso_C_Sharp\Secao_6\ExemploNullable\ExemploNullable\obj\Debug\net6.0\ref\ExemploNullable.dll
