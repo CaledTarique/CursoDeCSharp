@@ -1,0 +1,15 @@
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\bin\Debug\net6.0\PrimeiraAulaVetores.exe
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\bin\Debug\net6.0\PrimeiraAulaVetores.deps.json
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\bin\Debug\net6.0\PrimeiraAulaVetores.runtimeconfig.json
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\bin\Debug\net6.0\PrimeiraAulaVetores.dll
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\bin\Debug\net6.0\PrimeiraAulaVetores.pdb
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\obj\Debug\net6.0\PrimeiraAulaVetores.csproj.AssemblyReference.cache
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\obj\Debug\net6.0\PrimeiraAulaVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\obj\Debug\net6.0\PrimeiraAulaVetores.AssemblyInfoInputs.cache
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\obj\Debug\net6.0\PrimeiraAulaVetores.AssemblyInfo.cs
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\obj\Debug\net6.0\PrimeiraAulaVetores.csproj.CoreCompileInputs.cache
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\obj\Debug\net6.0\PrimeiraAulaVetores.dll
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\obj\Debug\net6.0\refint\PrimeiraAulaVetores.dll
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\obj\Debug\net6.0\PrimeiraAulaVetores.pdb
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\obj\Debug\net6.0\PrimeiraAulaVetores.genruntimeconfig.cache
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaVetores\PrimeiraAulaVetores\obj\Debug\net6.0\ref\PrimeiraAulaVetores.dll
