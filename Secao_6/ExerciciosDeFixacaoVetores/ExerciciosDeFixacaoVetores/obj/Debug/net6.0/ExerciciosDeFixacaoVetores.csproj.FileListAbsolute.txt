@@ -1,0 +1,15 @@
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\bin\Debug\net6.0\ExerciciosDeFixacaoVetores.exe
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\bin\Debug\net6.0\ExerciciosDeFixacaoVetores.deps.json
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\bin\Debug\net6.0\ExerciciosDeFixacaoVetores.runtimeconfig.json
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\bin\Debug\net6.0\ExerciciosDeFixacaoVetores.dll
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\bin\Debug\net6.0\ExerciciosDeFixacaoVetores.pdb
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\obj\Debug\net6.0\ExerciciosDeFixacaoVetores.csproj.AssemblyReference.cache
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\obj\Debug\net6.0\ExerciciosDeFixacaoVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\obj\Debug\net6.0\ExerciciosDeFixacaoVetores.AssemblyInfoInputs.cache
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\obj\Debug\net6.0\ExerciciosDeFixacaoVetores.AssemblyInfo.cs
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\obj\Debug\net6.0\ExerciciosDeFixacaoVetores.csproj.CoreCompileInputs.cache
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\obj\Debug\net6.0\ExerciciosDeFixacaoVetores.dll
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\obj\Debug\net6.0\refint\ExerciciosDeFixacaoVetores.dll
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\obj\Debug\net6.0\ExerciciosDeFixacaoVetores.pdb
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\obj\Debug\net6.0\ExerciciosDeFixacaoVetores.genruntimeconfig.cache
+C:\Curso_C_Sharp\Secao_6\ExerciciosDeFixacaoVetores\ExerciciosDeFixacaoVetores\obj\Debug\net6.0\ref\ExerciciosDeFixacaoVetores.dll
