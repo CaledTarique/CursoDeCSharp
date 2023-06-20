@@ -1,0 +1,15 @@
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\bin\Debug\net6.0\PrimeiraAulaListas.exe
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\bin\Debug\net6.0\PrimeiraAulaListas.deps.json
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\bin\Debug\net6.0\PrimeiraAulaListas.runtimeconfig.json
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\bin\Debug\net6.0\PrimeiraAulaListas.dll
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\bin\Debug\net6.0\PrimeiraAulaListas.pdb
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\obj\Debug\net6.0\PrimeiraAulaListas.csproj.AssemblyReference.cache
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\obj\Debug\net6.0\PrimeiraAulaListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\obj\Debug\net6.0\PrimeiraAulaListas.AssemblyInfoInputs.cache
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\obj\Debug\net6.0\PrimeiraAulaListas.AssemblyInfo.cs
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\obj\Debug\net6.0\PrimeiraAulaListas.csproj.CoreCompileInputs.cache
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\obj\Debug\net6.0\PrimeiraAulaListas.dll
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\obj\Debug\net6.0\refint\PrimeiraAulaListas.dll
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\obj\Debug\net6.0\PrimeiraAulaListas.pdb
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\obj\Debug\net6.0\PrimeiraAulaListas.genruntimeconfig.cache
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaListas\PrimeiraAulaListas\obj\Debug\net6.0\ref\PrimeiraAulaListas.dll

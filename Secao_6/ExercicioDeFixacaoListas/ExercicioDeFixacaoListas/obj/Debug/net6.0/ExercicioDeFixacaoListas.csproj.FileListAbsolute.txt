@@ -1,0 +1,15 @@
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\bin\Debug\net6.0\ExercicioDeFixacaoListas.exe
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\bin\Debug\net6.0\ExercicioDeFixacaoListas.deps.json
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\bin\Debug\net6.0\ExercicioDeFixacaoListas.runtimeconfig.json
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\bin\Debug\net6.0\ExercicioDeFixacaoListas.dll
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\bin\Debug\net6.0\ExercicioDeFixacaoListas.pdb
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\net6.0\ExercicioDeFixacaoListas.csproj.AssemblyReference.cache
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\net6.0\ExercicioDeFixacaoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\net6.0\ExercicioDeFixacaoListas.AssemblyInfoInputs.cache
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\net6.0\ExercicioDeFixacaoListas.AssemblyInfo.cs
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\net6.0\ExercicioDeFixacaoListas.csproj.CoreCompileInputs.cache
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\net6.0\ExercicioDeFixacaoListas.dll
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\net6.0\refint\ExercicioDeFixacaoListas.dll
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\net6.0\ExercicioDeFixacaoListas.pdb
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\net6.0\ExercicioDeFixacaoListas.genruntimeconfig.cache
+C:\Curso_C_Sharp\Secao_6\ExercicioDeFixacaoListas\ExercicioDeFixacaoListas\obj\Debug\net6.0\ref\ExercicioDeFixacaoListas.dll

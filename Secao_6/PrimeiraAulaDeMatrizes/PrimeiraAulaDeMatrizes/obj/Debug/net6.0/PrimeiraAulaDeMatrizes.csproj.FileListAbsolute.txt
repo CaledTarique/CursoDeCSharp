@@ -1,0 +1,15 @@
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\bin\Debug\net6.0\PrimeiraAulaDeMatrizes.exe
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\bin\Debug\net6.0\PrimeiraAulaDeMatrizes.deps.json
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\bin\Debug\net6.0\PrimeiraAulaDeMatrizes.runtimeconfig.json
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\bin\Debug\net6.0\PrimeiraAulaDeMatrizes.dll
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\bin\Debug\net6.0\PrimeiraAulaDeMatrizes.pdb
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\obj\Debug\net6.0\PrimeiraAulaDeMatrizes.csproj.AssemblyReference.cache
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\obj\Debug\net6.0\PrimeiraAulaDeMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\obj\Debug\net6.0\PrimeiraAulaDeMatrizes.AssemblyInfoInputs.cache
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\obj\Debug\net6.0\PrimeiraAulaDeMatrizes.AssemblyInfo.cs
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\obj\Debug\net6.0\PrimeiraAulaDeMatrizes.csproj.CoreCompileInputs.cache
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\obj\Debug\net6.0\PrimeiraAulaDeMatrizes.dll
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\obj\Debug\net6.0\refint\PrimeiraAulaDeMatrizes.dll
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\obj\Debug\net6.0\PrimeiraAulaDeMatrizes.pdb
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\obj\Debug\net6.0\PrimeiraAulaDeMatrizes.genruntimeconfig.cache
+C:\Curso_C_Sharp\Secao_6\PrimeiraAulaDeMatrizes\PrimeiraAulaDeMatrizes\obj\Debug\net6.0\ref\PrimeiraAulaDeMatrizes.dll
